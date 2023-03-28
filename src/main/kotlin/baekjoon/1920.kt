@@ -1,3 +1,5 @@
+package baekjoon
+
 import java.io.BufferedReader
 import java.io.InputStreamReader
 
@@ -34,7 +36,7 @@ fun main() {
     val bf = BufferedReader(InputStreamReader(System.`in`))
     val inputNCount = bf.readLine().toInt()
     val inputNValues = bf.readLine().split(" ")
-    val inputMCount = bf.readLine().toInt()
+    bf.readLine()
     val inputMValues = bf.readLine().split(" ")
     val arr = IntArray(inputNCount)
     for (i in 0 until inputNCount) {
