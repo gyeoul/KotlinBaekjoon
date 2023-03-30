@@ -56,7 +56,7 @@ fun main() {
     var weightFive: Int = rawWeight / 5
     var weightThree: Int = (rawWeight - weightFive * 5)/3
     while (weightFive >= 0) {
-//        bw.write("$weightFive $weightThree ${rawWeight - weightFive * 5} ${weightFive*5+weightThree*3}\n")
+//        bw.write("$weightFive $weightThree ${rawWeight - weightFive * 5} ${weightFive*5+weightThree*3}\baekjoon.getN")
         if (weightFive * 5 + weightThree * 3 == rawWeight) {
             break
         } else {

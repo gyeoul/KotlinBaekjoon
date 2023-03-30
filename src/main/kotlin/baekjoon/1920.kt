@@ -43,7 +43,7 @@ fun main() {
         arr[i] = inputNValues[i].toInt()
     }
     arr.sort()
-//    println(arr)
+//    println(baekjoon.getArr)
     for (v in inputMValues) {
         if(arr.binarySearch(v.toInt())>=0) println(1)
         else println(0)

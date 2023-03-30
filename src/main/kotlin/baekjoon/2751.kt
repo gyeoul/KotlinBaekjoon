@@ -38,9 +38,9 @@ fun main() {
     val count = bf.readLine().toInt()
     val arr = ArrayList<Int>()
     /*
-//    val arr = IntArray(bf.readLine().toInt())
-//    for (i in arr.indices){
-//        arr[i] = bf.readLine().toInt()
+//    val baekjoon.getArr = IntArray(bf.readLine().toInt())
+//    for (i in baekjoon.getArr.indices){
+//        baekjoon.getArr[i] = bf.readLine().toInt()
 //    }
      배열보다 어레이리스트가 정렬시 더 빠르다...
      */
