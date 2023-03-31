@@ -1,4 +1,4 @@
-package baekjoon
+package baekjoon._2751
 
 import java.io.BufferedReader
 import java.io.BufferedWriter

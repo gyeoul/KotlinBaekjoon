@@ -1,4 +1,4 @@
-package baekjoon
+package baekjoon._1920
 
 import java.io.BufferedReader
 import java.io.InputStreamReader

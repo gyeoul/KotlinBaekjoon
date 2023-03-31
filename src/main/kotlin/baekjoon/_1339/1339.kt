@@ -1,4 +1,4 @@
-package baekjoon
+package baekjoon._1339
 /*
 단어 수학 G4
 문제

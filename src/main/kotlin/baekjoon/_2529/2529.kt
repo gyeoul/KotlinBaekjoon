@@ -1,4 +1,4 @@
-package baekjoon
+package baekjoon._2529
 /*
 부등호 S1
 문제
