@@ -1,4 +1,4 @@
-package programmers
+package programmers._67256
 
 import kotlin.math.abs
 
@@ -47,10 +47,4 @@ class Solution {
         }
         return answer.toString()
     }
-}
-
-
-fun main() {
-    val s = Solution()
-    println(s.solution(intArrayOf(1, 3, 4, 5, 8, 2, 1, 4, 5, 9, 5), "right"))
 }
